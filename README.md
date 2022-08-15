@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kingstarkus
+- 👋 Hi, I’m @martianspace
 - 👀 I’m interested in ... product development
 - 🌱 I’m currently learning ... product management
 - 💞️ I’m looking to collaborate on ... learning product development
